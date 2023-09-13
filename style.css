@@ -344,6 +344,9 @@ body {
     .hamburger {
       display: block;
       cursor: pointer;
+      position: absolute;
+      right: 0;
+      margin-right: 20px;
     }
 
     .hamburger .line {
@@ -363,6 +366,8 @@ body {
       background: #ffffff;
       transition: 0.5s;
       overflow: hidden;
+      text-align: center;
+      justify-content: center;
     
     }
     
