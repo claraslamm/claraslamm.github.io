@@ -341,7 +341,7 @@ body {
 
 
   @media only screen and (max-width: 900px) {
-    .hamburger {
+    .hamburgers {
       display: block;
       cursor: pointer;
       position: absolute;
@@ -349,7 +349,7 @@ body {
       margin-right: 20px;
     }
 
-    .hamburger .line {
+    .hamburgers .line {
       width: 30px;
       height: 3px;
       background: #333;
