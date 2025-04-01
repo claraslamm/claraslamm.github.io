@@ -409,4 +409,6 @@ body {
     display: grid;
   }
 
-  
+  .col-md-6 {
+    width: 100%;
+  }
